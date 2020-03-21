@@ -30,12 +30,15 @@
   },
   "homepage": "https://github.com/gospime/koa-redirect-to#readme",
   "devDependencies": {
-    "standard-version": "^7.0.0"
+    "standard-version": "^7.1.0"
   },
   "engines": {
     "node": ">=10.0.0"
   },
   "dependencies": {
     "debug": "^4.1.1"
+  },
+  "optionalDependencies": {
+    "minimist": "^1.2.5"
   }
 }
